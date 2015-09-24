@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it? It creates an empty repository that you must add files to. If you dont add files, they files will be untracked and you will get an error.
+
