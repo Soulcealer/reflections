@@ -5,4 +5,8 @@ saved locally on, then you would save it directly to GitHub.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? Certain pieces of code may not be ready for GitHub. Other pieces might override a local piece when pulling.
 
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are clones of other peoples work from GitHub to your work on GitHub. Clones copy your work from GitHub to
+your local machine, or copies work in you local computer. Branches create a modified copy from the master branch
+that doesnt effect the master branch's updates. Depending on which part of a repository, or which repositry you
+wish to clone will determien the method.
