@@ -16,3 +16,6 @@ Having it stored for offline work.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? Forums would be the best alternative. Almost everything would
 be more difficult.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? Uploading a branch to GitHub is more community
+friendly.
