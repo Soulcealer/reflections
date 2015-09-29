@@ -13,3 +13,6 @@ wish to clone will determien the method.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having it stored for offline work. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? Forums would be the best alternative. Almost everything would
+be more difficult.
