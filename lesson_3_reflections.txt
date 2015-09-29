@@ -10,3 +10,6 @@ Forks are clones of other peoples work from GitHub to your work on GitHub. Clone
 your local machine, or copies work in you local computer. Branches create a modified copy from the master branch
 that doesnt effect the master branch's updates. Depending on which part of a repository, or which repositry you
 wish to clone will determien the method.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having it stored for offline work. 
